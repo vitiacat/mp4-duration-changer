@@ -3,6 +3,7 @@ Changes mp4 video duration
 
 ## How to run
 Requires node js (i have version 16)
+
 Type ``npm i`` (or ``yarn install``)
 
 After installing dependencies (one dependency :D) type ``node .``
