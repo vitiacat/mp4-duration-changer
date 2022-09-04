@@ -1,0 +1,10 @@
+{
+  "name": "mp4-duration-changer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "VitiaCatDragon",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
